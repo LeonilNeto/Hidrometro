@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App Hidrometro</string>
+
+    <string name="tela_inicial">TELA INICIAL</string>
+    <string name="tela_cadastro">TELA DE CADASTRO</string>
+    <string name="tela_consulta">TELA DE CONSULTA</string>
+
+    <string name="botao_cadastrar_hidrometro">CADASTRAR LEITURAS DO HIDROMETRO</string>
+    <string name="botao_consultar">CONSULTAR LEITURAS DO HIDROMETRO</string>
+    <string name="botao_encerrar">ENCERRAR APLICATIVO</string>
+    <string name="botao_cadastrar">CADASTRAR</string>
+    <string name="botao_voltar">VOLTAR</string>
+
+    <string name="label_leituras">Leituras</string>
+    <string name="label_leitura_inicial">Leitura Inicial</string>
+    <string name="label_leitura_final">Leitura Final</string>
+    <string name="textview">TextView</string>
+</resources>
