@@ -2,7 +2,9 @@ package com.example.hidrometro;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.NumberPicker;
 import android.widget.TextView;
 
@@ -34,6 +36,8 @@ public class Cadastrar extends AppCompatActivity {
         for (NumberPicker pickers:picker) {
             configuraNumberPicker(pickers);
         }
+
+        Log.i("teste", Integer.toString(picker[0].getValue()));
 
     }
 
