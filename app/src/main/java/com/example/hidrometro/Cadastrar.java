@@ -37,8 +37,6 @@ public class Cadastrar extends AppCompatActivity {
             configuraNumberPicker(pickers);
         }
 
-        Log.i("teste", Integer.toString(picker[0].getValue()));
-
     }
 
     public void configuraNumberPicker(NumberPicker picker) {
